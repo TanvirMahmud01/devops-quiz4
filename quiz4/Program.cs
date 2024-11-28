@@ -23,3 +23,7 @@ app.UseAuthorization();
 app.MapRazorPages();
 
 app.Run();
+
+// Displaying database access message
+Console.WriteLine("Database access has already been done on Nov 28, 2024, by Tanvir Mahmud");
+
